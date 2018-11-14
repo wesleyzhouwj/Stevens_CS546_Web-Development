@@ -1,0 +1,25 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "This is for lab7",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node ./tasks/seed.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "rounter",
+    "mongodb",
+    "api"
+  ],
+  "author": "Weijia Zhou",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8",
+    "node-uuid": "^1.4.8",
+    "uuid": "^3.3.2"
+  }
+}
