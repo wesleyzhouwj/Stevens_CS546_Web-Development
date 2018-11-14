@@ -1,0 +1,19 @@
+{{#if error}}
+    <div class="alert alert-danger" role="alert">{{error}}</div>
+{{/if}}
+<div class="container">
+    <form id="login-form" method="post" action="/login">
+        <div class="userNameStyle">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" placeholder="WesleyZhou">
+        </div>
+        <div class="passwordStyle">
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" placeholder="******">
+        </div>
+
+        <div class="buttonStyle">
+            <button type="submit">Login</button>
+        </div>
+    </form>
+</div>
