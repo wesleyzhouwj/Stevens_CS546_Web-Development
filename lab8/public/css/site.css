@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    font-size: 14pt;
+  }
+
+  body {
+    background: #dedede;
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+  h1{
+      color: brown;
+  }
+  .success {
+    color: #28a745;
+    margin-left: 40%;
+  }
+  .failure{
+      color: #dc3545;
+      margin-left: 40%;
+  }
+  .error{
+      color: #dc3545;
+      margin-left: 40%;
+  }
+  .mainParagraph{
+      color: cornflowerblue;
+  }
+  #authorName{
+      color: black;
+      font-size: 14px;
+      margin-left: 40%;
+  }
+  #authorCWID{
+      color: black;
+      font-size: 14px;
+      margin-left: 40%;
+  }
+  .introduce{
+      color: blueviolet;
+      font-size: 20px;
+      margin-left: 40%;
+  }
+  .myform{
+      margin-left: 40%;
+  }
+  #myIntro{
+      font-size: 20px;
+      color: aqua;
+      margin-left: 40%;
+  }
+  #myResult{
+      font-size: 20px;
+  }
+  #try{
+      margin-left: 40%;
+  }
