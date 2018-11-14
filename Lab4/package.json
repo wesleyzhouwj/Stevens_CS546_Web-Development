@@ -1,0 +1,17 @@
+{
+  "name": "cs-546-lab-4",
+  "version": "1.0.0",
+  "description": "This is for cs546 lab4",
+  "main": "node app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "Weijia_Zhou_10429862",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "mongodb": "^3.1.6",
+    "uuid": "^3.3.2"
+  }
+}
