@@ -1,0 +1,42 @@
+.is-palindrome{
+    color:#0000FF;
+}
+.not-palindrome{
+    color:#FF0000;
+}
+h1{
+    color: blueviolet;
+    margin-left: 40%;
+}
+.containerForm{
+    position: relative;
+    margin-left: 43%;
+}
+.containerFooter{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.submtBtn{
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.list{
+    margin-top: 30px;
+}
+.container-static-handle{
+    position: relative;
+    border-style: hidden;
+}
+#footerStyle{
+    color: cadetblue;
+}
+.textStyle{
+    position: relative;
+    border-style: hidden;
+}
+#attemptsText{
+    color: cornflowerblue;
+}
+
+
