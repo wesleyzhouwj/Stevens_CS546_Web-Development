@@ -1,0 +1,15 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "description": "This is for the lab3",
+  "main": "node app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "Weijia_Zhou_10429862",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.2"
+  }
+}
